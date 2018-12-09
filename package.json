@@ -1,0 +1,25 @@
+{
+  "name": "miss-bug",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6"
+  },
+  "scripts": {
+    "showFiles": "dir",
+    "pingGoogle": "ping google.com",
+    "start": "node server.js"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "data/*"
+    ]
+  },
+  "main": "server.js",
+  "author": "zevik",
+  "license": "ISC",
+  "description": ""
+}

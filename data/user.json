@@ -1,0 +1,26 @@
+[
+  {
+    "username": "gigi",
+    "pass": "123",
+    "id": "xWi",
+    "isAdmin": false
+  },
+  {
+    "username": "yaron",
+    "pass": "123",
+    "id": "3ok",
+    "isAdmin": true
+  },
+  {
+    "username": "MUKI",
+    "pass": "123",
+    "id": "yNO",
+    "isAdmin": false
+  },
+  {
+    "username": "zig",
+    "pass": "123",
+    "id": "bpJ",
+    "isAdmin": false
+  }
+]

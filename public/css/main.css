@@ -1,0 +1,105 @@
+body{
+    text-align: center;
+    background-color: rgb(233, 115, 111);
+}
+table{
+    border: 3px double ;
+    margin: 10px auto;
+    border-collapse: collapse;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+
+}
+table tr td{
+    border: 3px double ;
+    padding: 10px;
+    text-align: center;
+    
+}
+table th{
+    border: 3px double ;
+    padding: 10px;
+    text-align: center;
+    
+}
+.login-page,.sign-up-page{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.login-page input,.sign-up-page input{
+    display: block;
+    margin: 10px auto;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+.login-page button,.sign-up-page button{
+    cursor: pointer;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.bug-app h1{
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bug-app button{
+    cursor: pointer;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.bug-filter{
+    margin: 10px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bug-filter input{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+.bug-edit{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bug-edit input{
+    display: block;
+    margin: 10px auto;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+.bug-edit button{
+    cursor: pointer;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+
+
+.bug-details{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.bug-details button{
+    display: block;
+    margin: 10px auto;
+    cursor: pointer;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    padding: 5px;
+}
